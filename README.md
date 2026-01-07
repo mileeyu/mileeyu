@@ -3,11 +3,9 @@
 </span>
 
 # Hi there :wave: I'm Milee.
-I'm a multidisciplinary product designer specializing in platform design, UX, and coding. My approach focuses on building human-centered interfaces incorporating AI to enhance and augment the learner's experience. I merge technical and creative skills from concept to launch to create intuitive, impactful products. 
+I'm a product design leader building human-centered AI systems from the ground up. I've led multiple 0-to-1 AI products used by millions worldwide, and I also create the design systems and frameworks that help teams build AI that's trustworthy, accessible, and scalable. Colleagues often refer to this cross-team impact as the 'Milee multiplier effect.' I bridge strategy and execution, aligning product and engineering to move from early ideas to real, measurable impact.
 
-As a design lead for Coursera's Coach/GenAI team, I design AI-powered experiences that transform how people learn and achieve their goals while empowering teams to build innovative AI solutions that put users first.
-
-Recently, I led the design of Coach, Coursera's first AI learning assistant (Launched to general availability in Q2 2024) and GenAI platform library of features that has been used to build 6+ applications on Coursera. Now, I'm focused on building the future of learning. 
+Currently, I'm the founding designer on Coursera's GenAI incubation team, a small autonomous group building AI-native products.
 
 ## Favorite Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0F2976)
