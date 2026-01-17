@@ -3,7 +3,9 @@
 </span>
 
 # Hi there :wave: I'm Milee.
-I'm a product design leader building human-centered AI systems from the ground up. I've led multiple 0-to-1 AI products used by millions worldwide, and I also create the design systems and frameworks that help teams build AI that's trustworthy, accessible, and scalable. Colleagues often refer to this cross-team impact as the 'Milee multiplier effect.' I bridge strategy and execution, aligning product and engineering to move from early ideas to real, measurable impact.
+I'm a product design leader focused on how AI can genuinely support people, helping them learn, make decisions, and build confidence without losing control or clarity. I've led multiple 0-to-1 AI products used by millions worldwide, and I design the shared systems and interaction models that help teams build AI that's trustworthy, accessible and consistent for real users.
 
-Currently, I'm the founding designer on Coursera's GenAI incubation team, a small autonomous group building AI-native products.
+I specialize in bridging strategy and execution, working across design, engineering, research, and leadership to turn emerging AI capabilities into experiences that fit naturally, and delightfully into people's lives.
+
+Currently, I'm the founding designer on Coursera's GenAI incubation team, building an AI-native application in active user testing.
 
