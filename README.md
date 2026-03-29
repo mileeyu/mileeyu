@@ -3,6 +3,4 @@
 </span>
 
 # Hi there :wave: I'm Milee.
-I'm a product designer focused on building human-centered AI experiences that people trust and rely on in their daily lives. I've led multiple 0-to-1 AI products used by millions, and I design the interaction models and systems that help teams ship AI that's clear, accessible, and consistent for real users.
-
-Currently, I'm the founding designer on Coursera's GenAI incubation team, building an AI-native microlearning app in active user testing.
+I'm a product designer on Coursera's product incubation team focused on building AI-native experiences that people trust and rely on in their daily lives. Launching soon: Ollie, a micro-learning app for anytime, anywhere. Working on now: Skills mastery app.  
