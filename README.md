@@ -3,4 +3,4 @@
 </span>
 
 # Hi there :wave:
-I'm interested in how AI can help people learn, grow, and become more capable in their daily lives. Currently, I'm part of a small autonomous team at Coursera rethinking how people learn and gain verifiable skills with AI.
+I'm interested in how AI can help people learn, grow, and become more capable in their daily lives. Right now, I'm part of a small autonomous team at Coursera rethinking how people learn and gain verifiable skills with AI.
