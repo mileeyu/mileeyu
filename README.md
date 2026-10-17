@@ -3,5 +3,5 @@
 </span>
 
 # Hi there :wave:
-I'm interested in how we build AI that augments human capability, making it a trustworthy, useful, and delightful part of daily life. My work spans vision, research, interaction design, and code, grounded in a simple goal: building products people genuinely love to use.
+I like to build things.
 
